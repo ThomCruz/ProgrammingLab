@@ -1,0 +1,6 @@
+void > 1
+int > 1
+char > 1
+for > 1
+while > 2
+return > 1
