@@ -1,0 +1,7 @@
+R 1 X
+W 2 X
+R 1 Y
+W 3 X
+R 2 Y
+W 4 X
+W 1 X
