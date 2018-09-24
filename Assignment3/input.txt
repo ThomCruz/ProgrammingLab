@@ -1,0 +1,6 @@
+R 1 Alpha
+R 2 Alpha
+R 3 Alpha
+R 2 Beta
+W 1 Beta
+R 3 Beta
